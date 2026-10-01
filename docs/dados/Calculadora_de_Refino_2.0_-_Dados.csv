@@ -1,0 +1,228 @@
+TIPOS DE ITEM,,,,,,,,,
+Tipo,Máx refino,Aceita BSB,,,,,,,
+Arma Nv 1,14,SIM,,,,,,,
+Arma Nv 2,14,SIM,,,,,,,
+Arma Nv 3,14,SIM,,,,,,,
+Arma Nv 4,14,SIM,,,,,,,
+Arma Nv 5,14,SIM,,,,,,,
+Equipamento Nv 1,14,SIM,,,,,,,
+Equipamento Nv 2,14,SIM,,,,,,,
+Arma Sombria,10,NÃO,,,,,,,
+Equipamento Sombrio,10,NÃO,,,,,,,
+,,,,,,,,,
+NÍVEIS DE OTIMISMO,,,,,,,,,
+Nível,,,,,Otimismo por step,,,,
+Muito Pessimista,,,,,Padrão,,,,
+Pessimista,,,,,Muito Pessimista,,,,
+Otimista,,,,,Pessimista,,,,
+Muito Otimista,,,,,Otimista,,,,
+,,,,,Muito Otimista,,,,
+CHANCES DE SUCESSO,,,,,,,,,
+Chave,Arma Nv 1,Arma Nv 2,Arma Nv 3,Arma Nv 4,Arma Nv 5,Equipamento Nv 1,Equipamento Nv 2,Arma Sombria,Equipamento Sombrio
+COMUM|NORMAL|1,100,100,100,100,100,100,100,100,100
+COMUM|NORMAL|2,100,100,100,100,100,100,100,100,100
+COMUM|NORMAL|3,100,100,100,100,100,100,100,100,100
+COMUM|NORMAL|4,100,100,100,100,60,100,60,100,100
+COMUM|NORMAL|5,100,100,100,60,60,60,60,60,60
+COMUM|NORMAL|6,100,100,60,40,40,40,40,40,40
+COMUM|NORMAL|7,100,60,50,40,40,40,40,40,40
+COMUM|NORMAL|8,60,40,20,20,20,20,20,20,20
+COMUM|NORMAL|9,40,20,20,20,20,20,20,20,20
+COMUM|NORMAL|10,19,19,19,9,9,9,9,10,10
+COMUM|NORMAL|11,18,18,18,8,8,8,8,,
+COMUM|NORMAL|12,18,18,18,8,8,8,8,,
+COMUM|NORMAL|13,18,18,18,8,8,8,8,,
+COMUM|NORMAL|14,18,18,18,8,8,8,8,,
+COMUM|EVENTO|1,100,100,100,100,100,100,100,100,100
+COMUM|EVENTO|2,100,100,100,100,100,100,100,100,100
+COMUM|EVENTO|3,100,100,100,100,100,100,100,100,100
+COMUM|EVENTO|4,100,100,100,100,80,100,80,100,100
+COMUM|EVENTO|5,100,100,100,60,80,60,80,60,60
+COMUM|EVENTO|6,100,100,60,40,60,40,60,40,40
+COMUM|EVENTO|7,100,60,50,40,60,40,60,40,40
+COMUM|EVENTO|8,60,40,20,20,40,20,40,20,20
+COMUM|EVENTO|9,40,20,20,20,40,20,40,20,20
+COMUM|EVENTO|10,19,19,19,9,18,9,18,10,10
+COMUM|EVENTO|11,40,40,35,20,16,20,16,,
+COMUM|EVENTO|12,40,40,35,20,16,20,16,,
+COMUM|EVENTO|13,35,35,30,16,16,16,16,,
+COMUM|EVENTO|14,35,35,30,16,16,16,16,,
+ESPECIAL|NORMAL|1,100,100,100,100,100,100,100,100,100
+ESPECIAL|NORMAL|2,100,100,100,100,100,100,100,100,100
+ESPECIAL|NORMAL|3,100,100,100,100,100,100,100,100,100
+ESPECIAL|NORMAL|4,100,100,100,100,90,100,90,100,100
+ESPECIAL|NORMAL|5,100,100,100,90,70,90,70,90,90
+ESPECIAL|NORMAL|6,100,100,90,70,60,70,60,70,70
+ESPECIAL|NORMAL|7,100,90,80,70,60,70,60,70,70
+ESPECIAL|NORMAL|8,90,70,40,40,40,40,40,40,40
+ESPECIAL|NORMAL|9,70,40,40,40,40,40,40,40,40
+ESPECIAL|NORMAL|10,30,30,30,20,20,20,20,20,20
+ESPECIAL|NORMAL|11,18,18,18,8,15,8,15,,
+ESPECIAL|NORMAL|12,18,18,18,8,15,8,15,,
+ESPECIAL|NORMAL|13,18,18,18,8,15,8,15,,
+ESPECIAL|NORMAL|14,18,18,18,8,15,8,15,,
+ESPECIAL|EVENTO|1,100,100,100,100,100,100,100,100,100
+ESPECIAL|EVENTO|2,100,100,100,100,100,100,100,100,100
+ESPECIAL|EVENTO|3,100,100,100,100,100,100,100,100,100
+ESPECIAL|EVENTO|4,100,100,100,100,95,100,95,100,100
+ESPECIAL|EVENTO|5,100,100,100,95,85,95,85,95,95
+ESPECIAL|EVENTO|6,100,100,95,80,70,80,70,80,80
+ESPECIAL|EVENTO|7,100,95,90,80,65,80,65,80,80
+ESPECIAL|EVENTO|8,95,85,70,60,55,60,55,60,60
+ESPECIAL|EVENTO|9,85,60,60,50,45,50,45,50,50
+ESPECIAL|EVENTO|10,55,45,45,35,25,35,25,35,35
+ESPECIAL|EVENTO|11,40,40,40,20,20,20,20,,
+ESPECIAL|EVENTO|12,40,40,40,20,20,20,20,,
+ESPECIAL|EVENTO|13,35,35,35,16,20,16,20,,
+ESPECIAL|EVENTO|14,35,35,35,16,20,16,20,,
+,,,,,,,,,
+,,,,,,,,,
+MINÉRIOS,,,,,,,,,
+Minério,Classe,Perda total,Níveis perdidos,Zeny,Raiz,Qtd raiz,Pó de Éter,,
+Fracon,Comum,SIM,0,0,Fracon,1,0,,
+Emveretarcon,Comum,SIM,0,0,Emveretarcon,1,0,,
+Oridecon,Comum,SIM,0,0,Oridecon,1,0,,
+Elunium,Comum,SIM,0,0,Elunium,1,0,,
+Bradium,Comum,NÃO,3,50000,Oridecon,3,0,,
+Carnium,Comum,NÃO,3,50000,Elunium,3,0,,
+Eteridecon,Comum,NÃO,3,10000,Oridecon,1,1,,
+Eterium,Comum,NÃO,3,10000,Elunium,1,1,,
+Bradium de Éter,Comum,SIM,0,80000,Oridecon,3,3,,
+Carnium de Éter,Comum,SIM,0,100000,Elunium,3,3,,
+Oridecon Enriquecido,Especial,SIM,0,0,Oridecon Enriquecido,1,0,,
+Elunium Enriquecido,Especial,SIM,0,0,Elunium Enriquecido,1,0,,
+Oridecon Perfeito,Especial,NÃO,1,0,Oridecon Perfeito,1,0,,
+Elunium Perfeito,Especial,NÃO,1,0,Elunium Perfeito,1,0,,
+Bradium Perfeito,Especial,NÃO,1,0,Bradium Perfeito,1,0,,
+Carnium Perfeito,Especial,NÃO,1,0,Carnium Perfeito,1,0,,
+Eteridecon Enriquecido,Especial,NÃO,1,0,Eteridecon Enriquecido,1,0,,
+Eterium Enriquecido,Especial,NÃO,1,0,Eterium Enriquecido,1,0,,
+Eteridecon Perfeito,Especial,SIM,0,50000,Oridecon Perfeito,1,3,,
+Eterium Perfeito,Especial,SIM,0,50000,Elunium Perfeito,1,3,,
+,,,,,,,,,
+,,,,,,,,,
+REGRAS DE MINÉRIO POR TIPO E STEP,,,,,,,,,
+Minério,Tipo,Step inicial,Step final,,,,,,
+Oridecon,Arma Nv 3,1,9,,,,,,
+Oridecon Enriquecido,Arma Nv 3,1,9,,,,,,
+Oridecon Perfeito,Arma Nv 3,8,9,,,,,,
+Oridecon,Arma Nv 4,1,9,,,,,,
+Oridecon Enriquecido,Arma Nv 4,1,9,,,,,,
+Oridecon Perfeito,Arma Nv 4,8,9,,,,,,
+Fracon,Arma Nv 1,1,9,,,,,,
+Emveretarcon,Arma Nv 2,1,9,,,,,,
+Eteridecon,Arma Nv 5,1,9,,,,,,
+Eteridecon Enriquecido,Arma Nv 5,1,10,,,,,,
+Bradium,Arma Nv 1,10,14,,,,,,
+Bradium Perfeito,Arma Nv 1,10,14,,,,,,
+Bradium,Arma Nv 2,10,14,,,,,,
+Bradium Perfeito,Arma Nv 2,10,14,,,,,,
+Bradium,Arma Nv 3,10,14,,,,,,
+Bradium Perfeito,Arma Nv 3,10,14,,,,,,
+Bradium,Arma Nv 4,10,14,,,,,,
+Bradium Perfeito,Arma Nv 4,10,14,,,,,,
+Bradium de Éter,Arma Nv 5,10,14,,,,,,
+Eteridecon Perfeito,Arma Nv 5,11,14,,,,,,
+Elunium,Equipamento Nv 1,1,10,,,,,,
+Elunium Enriquecido,Equipamento Nv 1,1,10,,,,,,
+Elunium Perfeito,Equipamento Nv 1,8,10,,,,,,
+Carnium,Equipamento Nv 1,11,14,,,,,,
+Carnium Perfeito,Equipamento Nv 1,11,14,,,,,,
+Eterium,Equipamento Nv 2,1,9,,,,,,
+Eterium Enriquecido,Equipamento Nv 2,1,10,,,,,,
+Carnium de Éter,Equipamento Nv 2,10,14,,,,,,
+Eterium Perfeito,Equipamento Nv 2,11,14,,,,,,
+Oridecon,Arma Sombria,1,10,,,,,,
+Oridecon Enriquecido,Arma Sombria,1,10,,,,,,
+Oridecon Perfeito,Arma Sombria,8,10,,,,,,
+Elunium,Equipamento Sombrio,1,10,,,,,,
+Elunium Enriquecido,Equipamento Sombrio,1,10,,,,,,
+Elunium Perfeito,Equipamento Sombrio,8,10,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+CONSUMO DE BSB,,,,,,,,,
+Step,Consumo,,,,,,,,
+1,0,,,,,,,,
+2,0,,,,,,,,
+3,0,,,,,,,,
+4,0,,,,,,,,
+5,0,,,,,,,,
+6,0,,,,,,,,
+7,0,,,,,,,,
+8,1,,,,,,,,
+9,2,,,,,,,,
+10,4,,,,,,,,
+11,7,,,,,,,,
+12,11,,,,,,,,
+13,16,,,,,,,,
+14,22,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+TAXAS DO NPC (zeny por tentativa)  -- PREENCHER,,,,,,,,,
+Step,Arma Nv 1,Arma Nv 2,Arma Nv 3,Arma Nv 4,Arma Nv 5,Equipamento Nv 1,Equipamento Nv 2,Arma Sombria,Equipamento Sombrio
+1,0,0,0,0,0,0,0,0,0
+2,0,0,0,0,0,0,0,0,0
+3,0,0,0,0,0,0,0,0,0
+4,0,0,0,0,0,0,0,0,0
+5,0,0,0,0,0,0,0,0,0
+6,0,0,0,0,0,0,0,0,0
+7,0,0,0,0,0,0,0,0,0
+8,0,0,0,0,0,0,0,0,0
+9,0,0,0,0,0,0,0,0,0
+10,0,0,0,0,0,0,0,0,0
+11,0,0,0,0,0,0,0,0,0
+12,0,0,0,0,0,0,0,0,0
+13,0,0,0,0,0,0,0,0,0
+14,0,0,0,0,0,0,0,0,0
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+GRAUS,,,,,,,,,
+Grau,Pedra,Qtd normal,Qtd seguro,Zeny normal,Zeny seguro,Bênçãos/1%,,,
+D,Aquamarina de Éter,1,5,100000,500000,1,,,
+C,Topázio de Éter,1,5,125000,625000,3,,,
+B,Ametista de Éter,1,5,200000,1000000,5,,,
+A,Âmbar de Éter,2,10,500000,2500000,7,,,
+,,,,,,,,,
+ORDEM DOS GRAUS,,,,,,,,,
+Sem Grau,,,,,,,,,
+D,,,,,,,,,
+C,,,,,,,,,
+B,,,,,,,,,
+A,,,,,,,,,
+,,,,,,,,,
+CHANCES DE GRAU,,,,,,,,,
+Chave,D,C,B,A,,,,,
+NORMAL|9,10,0,0,0,,,,,
+NORMAL|10,20,20,0,0,,,,,
+NORMAL|11,70,60,50,40,,,,,
+NORMAL|12,70,60,50,40,,,,,
+NORMAL|13,70,60,50,40,,,,,
+NORMAL|14,70,60,50,40,,,,,
+NORMAL|15,70,60,50,40,,,,,
+NORMAL|16,80,70,60,50,,,,,
+NORMAL|17,80,70,60,50,,,,,
+NORMAL|18,80,70,60,50,,,,,
+NORMAL|19,80,70,60,50,,,,,
+NORMAL|20,80,70,60,50,,,,,
+EVENTO|9,20,0,0,0,,,,,
+EVENTO|10,30,30,0,0,,,,,
+EVENTO|11,80,70,60,50,,,,,
+EVENTO|12,80,70,60,50,,,,,
+EVENTO|13,80,70,60,50,,,,,
+EVENTO|14,80,70,60,50,,,,,
+EVENTO|15,80,70,60,50,,,,,
+EVENTO|16,90,80,70,60,,,,,
+EVENTO|17,90,80,70,60,,,,,
+EVENTO|18,90,80,70,60,,,,,
+EVENTO|19,90,80,70,60,,,,,
+EVENTO|20,90,80,70,60,,,,,
+,,,,,,,,,
+,,,,,,,,,
+DECOMPOSIÇÃO DAS PEDRAS,,,,,,,,,
+Item,Raiz,Qtd raiz,Pedra de Éter,Pó de Éter,BSB,Zeny,,,
+Aquamarina de Éter,Aquamarina,1,3,15,0,400000,,,
+Topázio de Éter,Topázio,1,6,30,0,800000,,,
+Ametista de Éter,Ametista,1,10,50,0,1300000,,,
+Âmbar de Éter,Âmbar,1,15,75,0,2000000,,,
+Bênção do Éter,,0,0,5,1,100000,,,
